@@ -1,5 +1,5 @@
 evaro veerevaro vidiponi premikula
-evaro veerevo vidiponi yathrikula
+evaro veerevaro vidiponi yathrikula
 ye gudacharo gadamga nanne ventadane enduku emoradhe shyam
 
 
@@ -10,4 +10,8 @@ aakasame naa kosame
 sandehamemi leduga santhoshamantha naadiga
 uppongitunna oohala...neeve edaina nee taruvathe anipistunde ela
 
+<<<<<<< HEAD
 teri nazaro me dil kodiya kodiya 
+=======
+teri nazaro me dil kodiya who 
+>>>>>>> student
